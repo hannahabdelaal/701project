@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Arabic text tools for Python"
+name = "pyarabic"
+optional = false
+python-versions = "*"
+version = "0.6.10"
+
+[metadata]
+content-hash = "7e3cf30248e94f9271379c98de107a25eb747f4ac0ed94a4b82fff3bc9681aa8"
+python-versions = "^3.8"
+
+[metadata.files]
+pyarabic = [
+    {file = "PyArabic-0.6.10.tar.gz", hash = "sha256:4c32a3080a304afd9c3897e0968e3d93a5ea62b32495b90bc4943f004f165287"},
+]
